@@ -1,2 +1,2 @@
 # al-go-rithm
-Algorithm with Go Language
+Basic Algorithm and  Data Structure with Go Language
